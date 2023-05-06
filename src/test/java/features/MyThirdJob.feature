@@ -4,3 +4,4 @@ Feature: Konsola yazdırma
 
     Given deneme
     When ikinci çıktıyı verelim
+    And üçüncü çıktıyı verelim
